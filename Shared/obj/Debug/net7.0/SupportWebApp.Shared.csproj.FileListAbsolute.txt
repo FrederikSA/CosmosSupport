@@ -1,0 +1,13 @@
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/bin/Debug/net7.0/SupportWebApp.Shared.deps.json
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/bin/Debug/net7.0/SupportWebApp.Shared.dll
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/bin/Debug/net7.0/SupportWebApp.Shared.pdb
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.csproj.AssemblyReference.cache
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.AssemblyInfoInputs.cache
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.AssemblyInfo.cs
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.csproj.CoreCompileInputs.cache
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.sourcelink.json
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.dll
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/refint/SupportWebApp.Shared.dll
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/SupportWebApp.Shared.pdb
+/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/obj/Debug/net7.0/ref/SupportWebApp.Shared.dll

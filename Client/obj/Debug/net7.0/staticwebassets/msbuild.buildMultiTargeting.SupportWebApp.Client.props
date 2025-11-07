@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SupportWebApp.Client.props" />
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "shzSk5a8/0M=",
+  "success": true,
+  "projectFilePath": "/Users/frederikandersen/RiderProjects/3. semester/CosmosSupport/Shared/SupportWebApp.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/frederikandersen/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
