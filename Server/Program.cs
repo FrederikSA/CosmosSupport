@@ -15,11 +15,10 @@ builder.Services.AddControllers()
 builder.Services.AddSingleton(provider =>
 {
     // læs connectionstring fra appsettings.json
-    var config = builder.Configuration.GetSection("CosmosDb");
+    var connectionString = builder.Configuration.GetConnectionString("CosmosDbConnection")!;
 
-    string connectionString = $"AccountEndpoint={config["Account"]};AccountKey={config["Key"]};";
-    string databaseName = config["DatabaseName"]!;
-    string containerName = config["ContainerName"]!;
+    string databaseName = "IBasSupportDB";
+    string containerName = "ibassupport";
 
     return new CosmosService(connectionString, databaseName, containerName);
 });
